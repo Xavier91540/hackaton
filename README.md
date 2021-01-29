@@ -19,12 +19,12 @@ Le héros démarre avec :
 
 ## Liste des pouvoirs
 
-0. Transit intestinal sain
+0. Transit intestinal sain   
 1. Esprit serein
 
 ## Liste des armes
 
-0. Répartie
-1. Sens de la fête
-2. Confiance en soi
-3. Compassion
+0. Répartie               2
+1. Sens de la fête        3 
+2. Confiance en soi       4 
+3. Compassion             3
